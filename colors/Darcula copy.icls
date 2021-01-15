@@ -1,0 +1,15 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="12322e" />
+  </colors>
+  <attributes>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="24802d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

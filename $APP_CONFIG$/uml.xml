@@ -1,0 +1,12 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MODULES" categories="Libraries" />
+        <entry id="SPRING" categories="Borderless View" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>

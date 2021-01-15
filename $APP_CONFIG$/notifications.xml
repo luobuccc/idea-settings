@@ -1,0 +1,10 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="Custom Postfix Templates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="Profiling" />
+  </component>
+</application>

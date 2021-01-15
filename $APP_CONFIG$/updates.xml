@@ -1,0 +1,38 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="173.4301.25" />
+      <item value="173.4127.27" />
+      <item value="173.3942.27" />
+      <item value="173.3727.127" />
+      <item value="173.4548.28" />
+      <item value="172.4574.19" />
+      <item value="173.4674.33" />
+      <item value="181.4203.550" />
+      <item value="181.4445.78" />
+      <item value="182.3911.36" />
+      <item value="182.3684.101" />
+      <item value="183.5429.30" />
+      <item value="183.5153.38" />
+      <item value="183.4886.37" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-192.5728.98" />
+    <option name="LAST_TIME_CHECKED" value="1603875664902" />
+    <pluginHosts>
+      <item value="https://repo.idechajian.com" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
